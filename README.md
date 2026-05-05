@@ -132,12 +132,6 @@ python -m unittest
 
 ---
 
-## 📸 Screenshots
-
-*Add screenshots here (UI + output)*
-
----
-
 ## 🤝 Contributing
 
 Feel free to fork this repository and submit pull requests!
